@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/popup_background"
+    android:elevation="8dp"
+    android:padding="4dp">
+
+    <org.mozilla.geckoview.GeckoView
+        android:id="@+id/extension_gecko_view"
+        android:layout_width="match_parent"
+        android:layout_height="400dp" />
+
+</LinearLayout>
