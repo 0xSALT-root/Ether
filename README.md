@@ -26,20 +26,4 @@ Ether is a modern, privacy-focused Android web browser built on top of **GeckoVi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Ether.git
-   ```
-2. Open the project in **Android Studio Ladybug (or newer)**.
-3. Sync the project with Gradle.
-4. Run the `:app` module on an emulator or physical device (Android 8.0+).
-
-## 🤝 Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 🛡 Security
-
-If you discover a security vulnerability, please refer to our [SECURITY.md](SECURITY.md).
-
-## 📄 License
-
-Ether is released under the [MIT License](LICENSE).
+   git clone [https://github.com/your-username/Ether.git](https://github.com/your-username/Ether.git)
