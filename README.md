@@ -26,4 +26,4 @@ Ether is a modern, privacy-focused Android web browser built on top of **GeckoVi
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/Ether.git](https://github.com/your-username/Ether.git)
+   git clone  https://github.com/0xSALT-root/Ether.git
